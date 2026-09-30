@@ -2,38 +2,33 @@
 
 My personal learning journal for [TryHackMe](https://tryhackme.com). Notes are written in my own words, focused on concepts, commands, and lessons learned. No flags or answer walkthroughs.
 
-**TryHackMe profile:** [your-username](https://tryhackme.com/p/your-username)
+**TryHackMe profile:** [rasmusskillz](https://tryhackme.com/p/rasmusskillz)
 
 ## Current focus
 
-- Path: _(e.g. Pre-Security / Jr Penetration Tester)_
-- Working on: _(current room)_
+- Path: _Cyber Security 101_
+- Working on: _Burp Suite: The Basics_
 
 ## Progress
 
-| Rooms completed | Hours logged | Started |
-|:---:|:---:|:---:|
-| 0 | 0 | 2026-09-30 |
+| Rooms completed | Started |
+|:---:|:---:|
+| 76 | 2026-04-21 |
 
 ## Room log
 
 | Date | Room | Topic | Difficulty |
 |------|------|-------|------------|
 | 2026-09-30 | [Example: Nmap](rooms/2026-09-30-nmap.md) | Network scanning | Easy |
+| 2026-09-29 | [SQL Fundamentals](rooms/2026-09-30-nmap.md) | SQL Queries | Easy |
 
-_Add a new row each time you finish a room (newest at the bottom or top, your call)._
+_New rooms gets added from the top down_
 
 ## Cheatsheets
 
 - [Nmap](cheatsheets/nmap.md)
 - [Linux commands](cheatsheets/linux.md)
 
-## How this repo works
-
-1. Copy `rooms/TEMPLATE.md` to `rooms/YYYY-MM-DD-room-name.md`
-2. Fill it in while or right after finishing the room
-3. Add a row to the table above
-4. Commit and push
 
 ```bash
 git add .
