@@ -1,4 +1,4 @@
-# Room index (paste into your README)
+# Room index 
 
 | # | Date | Room | Path | Section |
 |:---:|---|---|---|---|
